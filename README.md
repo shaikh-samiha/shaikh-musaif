@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Shaikh Musaif
 
-![Hero GIF](https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif) <!-- Replace with your own branded gif later -->
+![Hero Banner](https://media.giphy.com/media/228QSQ3cNXuDGo/giphy.gif)
 
 ---
 
@@ -45,7 +45,7 @@ I believe in:
 
 ### 🌍 Where I’ve Worked
 
-- 🏢 **bannu nalli pulao restaurant**, Sharjah – *Assistant Accountant*  
+- 🏢 **Bannu Nalli Pulao Restaurant**, Sharjah – *Assistant Accountant*  
 - 🏢 **Orbit International**, Nashik – *Senior Sales Executive*  
 - 🏢 **Paras Ultra**, Aurangabad – *Sales Executive Manager*
 
@@ -58,6 +58,14 @@ I believe in:
 > ✔️ Naturally good with people  
 > ✔️ Always dressed sharp and confident  
 > ✔️ Ready to lead or support — whatever the goal needs
+
+---
+
+### 🌐 My Portfolio
+
+🔗 [Click here to view my live portfolio](https://shaikh-samiha.github.io/shaikh-musaif/)
+
+A fully responsive, stylish portfolio website — with resume download, WhatsApp contact, and more.
 
 ---
 
