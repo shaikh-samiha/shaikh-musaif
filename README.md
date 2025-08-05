@@ -45,7 +45,7 @@ I believe in:
 
 ### 🌍 Where I’ve Worked
 
-- 🏢 **Skyline Enterprises**, Sharjah – *Assistant Accountant*  
+- 🏢 **bannu nalli pulao restaurant**, Sharjah – *Assistant Accountant*  
 - 🏢 **Orbit International**, Nashik – *Senior Sales Executive*  
 - 🏢 **Paras Ultra**, Aurangabad – *Sales Executive Manager*
 
